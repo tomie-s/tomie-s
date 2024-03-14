@@ -8,8 +8,8 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/tomie-s/osticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/tomie-s/ad-config)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/tomie-s/azure-nsgs)
   - [Understanding DNS, Records Types and Cache](https://github.com/tomie-s/azure-dns)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/tomie-s/azure-nsgs)
 
 <h2>🤳Connect with me:</h2>
 
