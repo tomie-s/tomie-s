@@ -1,4 +1,11 @@
-<h1>Hi, I'm Tomi, an <a href="https://www.linkedin.com/in/tomisalami/">IT Professional & Web Developer</a> ☺</h1>
+<h1>Hi, I'm Tomi, an <a href="https://www.linkedin.com/in/tomisalami/">IT Professional & Developer</a> ☺</h1>
+
+<h2>👨‍💻 Developer Projects:</h2>
+
+- <b>Python Development</b>
+  - [Snake Game](https://github.com/tomie-s/day-20-snake-games)
+  - [Quiz Game](https://github.com/tomie-s/day-17-quiz-game-project)
+  - [Coffee Machine](https://github.com/tomie-s/day-16-python-coding/tree/master)
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
