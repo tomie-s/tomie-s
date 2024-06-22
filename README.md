@@ -7,7 +7,7 @@
   - [Pomodoro Timer](https://github.com/tomie-s/day-28-pomodoro-program)
   - [Snake Game](https://github.com/tomie-s/day-20-snake-game)
   - [Quiz Game](https://github.com/tomie-s/day-17-quiz-game-project)
-  - [Coffee Machine](https://github.com/tomie-s/day-16-python-coding/tree/master)
+  - [Coffee Machine Program](https://github.com/tomie-s/day-16-python-coding/tree/master)
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
