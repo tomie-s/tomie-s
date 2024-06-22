@@ -4,6 +4,7 @@
 
 - <b>Python Development</b>
   - [Password Manager](https://github.com/tomie-s/day-29-password-manager)
+  - [Pomodoro Timer](https://github.com/tomie-s/day-28-pomodoro-program)
   - [Snake Game](https://github.com/tomie-s/day-20-snake-game)
   - [Quiz Game](https://github.com/tomie-s/day-17-quiz-game-project)
   - [Coffee Machine](https://github.com/tomie-s/day-16-python-coding/tree/master)
