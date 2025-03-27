@@ -1,13 +1,18 @@
 <h1>Hi, I'm Tomi, an <a href="https://www.linkedin.com/in/tomisalami/">IT Professional & Developer</a> ☺</h1>
 
-<h2>👨‍💻 Developer Projects:</h2>
-
+<h2>👨‍💻 Software Developer Projects:</h2>
+  
 - <b>Python Development</b>
   - [Flight Deals](https://github.com/tomie-s/day-39-flight-deals)
   - [Quizzler Gamer](https://github.com/tomie-s/day-34-quizzler-app)
   - [Pomodoro Timer](https://github.com/tomie-s/day-28-pomodoro-program)
   - [Snake Game](https://github.com/tomie-s/day-20-snake-game)
   - [Coffee Machine Program](https://github.com/tomie-s/day-16-python-coding/tree/master)
+
+- <b>Java Development</b>
+  - [Feed App](https://github.com/AcademyCapstones/cohort-7-feedapp-backend-tomie-s)
+  - [Weather App](https://github.com/AcademyCapstones/cohort-7-weatherapp-capstone-c7-s1-team-09)
+  - [TriviaMaster Game](https://github.com/AcademyCapstones/cohort-7-individual-project-tomie-s)
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
