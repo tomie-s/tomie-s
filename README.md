@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tomi, a <a href="https://www.linkedin.com/in/tomisalami/">Software Developer</a> ☺</h1>
+<h1>Hi, I'm Tomi, a <a href="https://www.linkedin.com/in/tomisalami/">Software Engineer</a> ☺</h1>
 
 <h2>👨‍💻 Software Developer Projects:</h2>
   
