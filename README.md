@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Tomi 👩‍💻
-### Frontend Engineer · Fintech Builder · Toronto, ON
+### Full-Stack Engineer · Fintech Domain Expert · Toronto, ON
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tomisalami-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomisalami/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-tomisalami.netlify.app-5D3FD3?style=flat&logo=netlify&logoColor=white)](https://tomisalami.netlify.app/)
@@ -11,12 +11,12 @@
 
 ---
 
-I'm a frontend engineer with a background in fintech — I bring both the technical depth of an engineer and the domain fluency of someone who's worked inside financial institutions. Currently building production-grade React applications at **TD Securities**, and independently developing **[Dascet](https://dascet.com)**, a fintech platform that helps Canadians discover the right financial tools for their goals.
+I'm a full-stack engineer with 4+ years of engineering experience and 5 years of deep banking operations expertise — I bring both the technical depth of an engineer and the domain fluency of someone who's worked inside financial institutions. Currently building production-grade applications at **TD Securities**, and independently developing **[Dascet](https://dascet-app.vercel.app)**, a fintech platform that helps Canadians discover the right financial tools for their goals.
 
-- 🏦 **Software Engineer** @ TD Securities — React, TypeScript, component-driven UI
-- 🚀 **Founder & CEO** @ Dascet Inc. — fintech SaaS, full-stack, React + Supabase
-- 🌱 Currently deepening: **React Query**, **React Router v7**, **TDD**, and **system design**
-- 📍 Based in Toronto · Open to fintech-focused frontend roles
+- 🏦 **Software Engineer** @ TD Securities — React, TypeScript, Java, shared component library
+- 🚀 **Founder & CEO** @ Dascet Inc. — fintech SaaS, full-stack, Next.js + Supabase
+- 🌱 Currently deepening: **system design**, **React Query**, **CI/CD**, and **AI integrations**
+- 📍 Based in Toronto · Open to full-stack engineering roles at product-driven companies
 
 ---
 
@@ -27,22 +27,23 @@ I'm a frontend engineer with a background in fintech — I bring both the techni
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
 **Backend & Data**
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white)
 
 **Tooling**
 
-![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=flat&logo=reactquery&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
 
 ---
 
@@ -54,6 +55,15 @@ I'm a frontend engineer with a background in fintech — I bring both the techni
 A full-stack fintech platform built independently from the ground up. Features a quiz-based matching algorithm, user tool lists, ratings & reviews, and a community contributor model.
 
 `Next.js` `TypeScript` `Supabase` `PostgreSQL` `Tailwind CSS` `Vitest`
+
+---
+
+### [FinLingo](https://finlingo-app.netlify.app) — Financial Jargon Explainer
+> *Plain-English explanations of financial terms and documents, powered by AI*
+
+Paste any financial text — mortgage clause, credit card T&Cs, bank statement — and get a plain-English breakdown plus follow-up questions to take to your financial advisor. Built with a custom `useFinLingo` hook handling API state, loading, and error. Designed to eventually integrate into Dascet as a core utility.
+
+`React 19` `TypeScript` `Tailwind CSS` `Gemini API` `Vitest` `React Testing Library`
 
 ---
 
