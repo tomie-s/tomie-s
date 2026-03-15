@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Tomi 👩‍💻
+# Hi, I'm Tomi 👩🏽‍💻
 ### Full-Stack Engineer · Fintech Domain Expert · Toronto, ON
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tomisalami-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomisalami/)
