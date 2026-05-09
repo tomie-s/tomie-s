@@ -49,7 +49,7 @@ I'm a full-stack engineer with 4+ years of engineering experience and 5 years of
 
 ## 🌟 Featured Projects
 
-### [Dascet](https://github.com/tomie-s/dascet-app) — Financial Tool Discovery Platform
+### [Dascet](https://github.com/tomie-s/dascet) — Financial Tool Discovery Platform
 > *Helping Canadians find the right financial products for their life stage and goals*
 
 A full-stack fintech platform built independently from the ground up. Features a quiz-based matching algorithm, user tool lists, ratings & reviews, and a community contributor model.
