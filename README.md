@@ -54,7 +54,7 @@ I'm a full-stack engineer with 4+ years of engineering experience and 5 years of
 
 A full-stack fintech platform built independently from the ground up. Features a quiz-based matching algorithm, user tool lists, ratings & reviews, and a community contributor model.
 
-`Next.js` `TypeScript` `Supabase` `PostgreSQL` `Tailwind CSS` `Vitest`
+`React.js` `TypeScript` `Supabase` `PostgreSQL` `Tailwind CSS` `Vitest`
 
 ---
 
