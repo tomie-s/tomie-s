@@ -14,7 +14,7 @@
 I'm a full-stack engineer with 4+ years of engineering experience and 5 years of deep banking operations expertise — I bring both the technical depth of an engineer and the domain fluency of someone who's worked inside financial institutions. Currently building production-grade applications at **TD Securities**, and independently developing **[Dascet](https://dascet-app.vercel.app)**, a fintech platform that helps Canadians discover the right financial tools for their goals.
 
 - 🏦 **Software Engineer** @ TD Securities — React, TypeScript, Java, shared component library
-- 🚀 **Founder & CEO** @ Dascet Inc. — fintech SaaS, full-stack, Next.js + Supabase
+- 🚀 **Solo Developer** @ Dascet — fintech SaaS, full-stack, Next.js + Supabase
 - 🌱 Currently deepening: **system design**, **React Query**, **CI/CD**, and **AI integrations**
 - 📍 Based in Toronto · Open to full-stack engineering roles at product-driven companies
 
